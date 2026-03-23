@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Temporary extraction files
+/tmp/
+
+# Output IMDF data (generated, not source)
+*.zip
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables (NEVER commit API keys!)
+.env
+.env.local
+.env.*

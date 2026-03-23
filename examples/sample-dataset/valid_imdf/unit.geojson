@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "u1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.0001,
+              0.0001
+            ],
+            [
+              0.0001,
+              0.0002
+            ],
+            [
+              0.0002,
+              0.0002
+            ],
+            [
+              0.0002,
+              0.0001
+            ],
+            [
+              0.0001,
+              0.0001
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": {
+          "en": "Test Shop"
+        },
+        "category": "retail",
+        "level_id": "l1"
+      }
+    }
+  ]
+}
